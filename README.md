@@ -45,7 +45,7 @@ Programas Utilizados :
     
 ## Domain Model: 
 
-<img src = "https://github.com/gabrielbergg/CRUD-e-Controle-de-Estoque/blob/main/Image/Domain_Model.png" width = 950px>
+<img src = "https://github.com/gabrielbergg/CRUD-e-Controle-de-Estoque/blob/main/Image/Domain_Model.png" width = 1000px>
 
 
 
